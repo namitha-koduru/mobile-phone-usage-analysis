@@ -311,7 +311,19 @@ File:
 ```text
 images/pairplot.png
 ```
+## Visualizations
 
+### Operating System Distribution
+![OS Distribution](images/os_distribution.png)
+
+### Screen Time Distribution
+![Screen Time](images/screen_time_distribution.png)
+
+### Screen Time vs Battery Drain
+![Battery Drain](images/battery_vs_screen_time.png)
+
+### Correlation Heatmap
+![Heatmap](images/correlation_heatmap.png)
 ---
 
 # 🔍 Key Findings
